@@ -6,6 +6,7 @@ import java.awt.event.*;
 import javax.sound.sampled.*;
 import java.util.Random;
 
+// Clase principal del juego
 public class Laverinto {
     public static void main(String[] args) {
 
